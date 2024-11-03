@@ -1,0 +1,61 @@
+.section{
+    margin: 40px;
+}
+.header{
+    background-color: gray;
+    box-sizing: border-box;
+    opacity: 0.5;  
+}
+.ping{
+    height: 70px;
+    margin-bottom: 7px;
+    font-size: 25px;
+    padding: 20px;
+}
+.pong{
+    height: 40px;
+    margin-bottom: 7px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.peng{
+    height: 100px;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.container{
+    overflow: hidden;
+}
+
+.contact{
+    float: left;
+    width: 30%;
+    opacity: 0.5;
+    background-color: rgb(171, 169, 169);
+    font-size: 25px;
+    padding-left: 12%;
+    padding-top: 12%;
+    box-sizing: border-box;
+}
+.blog{
+    float: right;
+    width: 70%;
+    opacity: 0.5;
+    background-color: gray;
+    margin-right: -25px;
+    font-size: 35px;
+    box-sizing: border-box;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+.item{
+    height: 450px;
+
+}
+.footer{
+  margin-top:  25px; ;  
+}
